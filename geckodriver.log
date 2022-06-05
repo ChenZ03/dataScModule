@@ -1,0 +1,24 @@
+1617931763855	geckodriver	INFO	Listening on 127.0.0.1:59356
+1617931835387	geckodriver	INFO	Listening on 127.0.0.1:59374
+1617931872946	geckodriver	INFO	Listening on 127.0.0.1:59447
+1617931994746	geckodriver	INFO	Listening on 127.0.0.1:59508
+1617932032837	geckodriver	INFO	Listening on 127.0.0.1:59521
+1617932035882	mozrunner::runner	INFO	Running command: "C:\\Users\\WINDOWS 10\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WINDOW~1\\AppData\\Local\\Temp\\rust_mozprofileO4wfAs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617932039087	Marionette	INFO	Listening on port 59529
+1617932039580	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11792, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617932041345	Marionette	INFO	Stopped listening on port 59529
+1617932092842	geckodriver	INFO	Listening on 127.0.0.1:59586
+1617932095885	mozrunner::runner	INFO	Running command: "C:\\Users\\WINDOWS 10\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WINDOW~1\\AppData\\Local\\Temp\\rust_mozprofileqJVoo6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617932098973	Marionette	INFO	Listening on port 59595
+1617932099081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1617932104241	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.ebay.com.my/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=Proton&_sacat=0, line 1: TypeError: r[1] is undefined
+[Parent 11860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617932151903	Marionette	INFO	Stopped listening on port 59595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
